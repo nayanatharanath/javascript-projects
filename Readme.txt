@@ -1,4 +1,4 @@
-# ONFLIX APPLICATION
+ONFLIX APPLICATION
 
 This is a vanilla JavaScript-based movie information application using TMDB API version 3. 
 
